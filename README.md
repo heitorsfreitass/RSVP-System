@@ -6,7 +6,7 @@
 
 ![Events Page](screenshots/events.png)
 
-This is a simple RSVP system for responding to any invitation. It allows users to create events, RSVP in already created events and see all attendees of a event.
+This is a simple RSVP system for responding to any invitation. It allows users to create events, RSVP in already created events and see all attendees of an event.
 
 ## Technologies Used
 - **Backend**: Laravel (PHP)
